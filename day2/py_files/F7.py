@@ -1,6 +1,6 @@
 import logging
 logging.basicConfig(
-    filename="$HOME/Desktop/python/capgimini_IPA/day2/log_files/F7.log",
+    filename="F7.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
